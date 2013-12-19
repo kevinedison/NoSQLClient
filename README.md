@@ -9,8 +9,8 @@ V1.3.3:
 
       1. Repair add and remove row function at the Edit pop window 
       2. Fix the history drop box changed, the connection not changed bug
-      3. Function enhancement for edit table row value changed click the save button the data not updated, 
-         make it update while click the save button
+      3. Function enhancement for edit table row value changed click the save button 
+         the data not updated, make it update while click the save button
 
 Note: while using, you should
 
