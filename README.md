@@ -20,7 +20,7 @@ Note: while using, you should
 V1.3.2:
 
       1. New: Add table filter for table set, list, hash at main frame;(nosqlClient-1.3.2-1)
-      2. Enhansment: Upgrade the version of client, and add the version to the constant class;(nosqlClient-1.3.2-2)
+      2. Enhansment: Upgrade client version, add version to constant class;(nosqlClient-1.3.2-2)
       3. Fix: release the redis connection to the pools after use the conn;(nosqlClient-1.3.2-3)
 
 V1.3.1:
@@ -50,5 +50,5 @@ V1.2.0:
 
 V1.1:
 
-      1.New: add the table name and table type at the right main panel while select the item at left tree.
+      1.New: add name and type for table at the right main panel when select the item at left tree.
       2.New: add, del and edit button at search window.
